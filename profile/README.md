@@ -68,3 +68,5 @@ Grafana Mimir | https://github.com/grafana/mimir/pull/3452 | 22/11/14 | Add runb
 Grafana Tempo | https://github.com/grafana/tempo/pull/1936 | 22/12/07 | Add zone aware repliction for ingesters
 Vue Core | https://github.com/vuejs/core/pull/7300 | 22/12/08 | Add support for custom element hydration in Vue 3 Runtime
 Lit SSR | https://github.com/lit/lit/pull/3431 | 22/12/13 | Change DOM shim to prevent exposure of window for SSR
+Spring Cloud Sleuth | https://github.com/spring-cloud/spring-cloud-sleuth/pull/2268 | 23/03/09 | New reactive kafka tracing instrumentation
+Spring Sleuth Otel Bridge | https://github.com/spring-projects-experimental/spring-cloud-sleuth-otel/pull/159 | 23/03/09 | Fixing context propagation for parent spans
