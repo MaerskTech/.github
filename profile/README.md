@@ -7,6 +7,7 @@ Here, you'll find open source software that Maersk has created or contributed to
 ## Articles
 Presenter              | Link to article                   | Title                  | Date (YY/MM/DD)
 -----------------------| ----------------------------------| -----------------------| -------------
+[Vikas Kumar](https://github.com/thisissvikas) | [Article](https://medium.com/@krvikas1011/building-a-highly-scalable-synthetic-monitoring-solution-f15f3ff3cb9d) | Building a highly-scalable Synthetic Monitoring Solution | 23/08/18
 [Steve Workman](https://github.com/steveworkman) | [Article](https://www.maersk.com/news/articles/2022/01/10/full-speed-ahead-for-maersk-booking) | Full Speed Ahead for Maersk Booking | 22/01/25
 [Soren Vedel](https://github.com/maersk) | [Article](https://www.maersk.com/news/articles/2022/04/07/giving-smart-products-the-right-idea) | Giving Smart Products The Right Idea | 22/04/07
 [Gaurav Bhatnagar](https://github.com/bhatnagar-gaurav) [Satish Kumar](https://github.com/SatishKumarRaizada) | [Article](https://www.maersk.com/news/articles/2022/06/16/maersk-mobile-all-the-way-with-flutter) | Maersk Mobile: All the Way with Flutter | 22/06/16
