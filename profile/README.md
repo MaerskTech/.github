@@ -51,10 +51,10 @@ Data Innovation Summit 2021, Stockholm, SE | [Micha BA Kunze](https://github.com
 
 ### Projects we support
 
-Project name | Link to repository | Date (YY/MM/DD) | Purpose
------------- | ------------- | ------------- | -------------
-AutoFixture Extensions | [maersk-test-autofixture-extensions](https://github.com/MaerskTech/maersk-test-autofixture-extensions) | 22/06/09 | AutoFixture extensions for unit testing
-nuxt-ssr-lit | https://github.com/prashantpalikhe/nuxt-ssr-lit | 22/11/14 | Nuxt 3 SSR rendering for Lit. Co-developed with repo owner
+Project name | Link to repository | Date (YYYY/MM/DD) | Purpose
+------------ | ------------------ | ----------------- | -------------
+AutoFixture Extensions | [maersk-test-autofixture-extensions](https://github.com/MaerskTech/maersk-test-autofixture-extensions) | 2022/06/09 | AutoFixture extensions for unit testing
+nuxt-ssr-lit | https://github.com/prashantpalikhe/nuxt-ssr-lit | 2022/11/14 | Nuxt 3 SSR rendering for Lit. Co-developed with repo owner
 
 ### PRs we have made
 
