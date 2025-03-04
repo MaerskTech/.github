@@ -9,10 +9,10 @@ Here, you'll find open source software that Maersk has created or contributed to
 Presenter              | Link to article                   | Title                  | Date (YYYY/MM/DD)
 -----------------------| ----------------------------------| -----------------------| ------------------
 [Vikas Kumar](https://github.com/thisissvikas) | [Article](https://medium.com/@thisissvikas/building-a-highly-scalable-synthetic-monitoring-solution-f15f3ff3cb9d) | Building a highly-scalable Synthetic Monitoring Solution | 2023/08/18
-[Steve Workman](https://github.com/steveworkman) | [Article](https://www.maersk.com/news/articles/2022/01/10/full-speed-ahead-for-maersk-booking) | Full Speed Ahead for Maersk Booking | 2022/01/25
-[Soren Vedel](https://github.com/maersk) | [Article](https://www.maersk.com/news/articles/2022/04/07/giving-smart-products-the-right-idea) | Giving Smart Products The Right Idea | 2022/04/07
-[Gaurav Bhatnagar](https://github.com/bhatnagar-gaurav) [Satish Kumar](https://github.com/SatishKumarRaizada) | [Article](https://www.maersk.com/news/articles/2022/06/16/maersk-mobile-all-the-way-with-flutter) | Maersk Mobile: All the Way with Flutter | 2022/06/16
 [Steve Workman](https://github.com/steveworkman) | [Article (web.dev)](https://web.dev/the-end-of-ie/) | The end of Internet Explorer | 2022/07/01
+[Gaurav Bhatnagar](https://github.com/bhatnagar-gaurav) [Satish Kumar](https://github.com/SatishKumarRaizada) | [Article](https://www.maersk.com/news/articles/2022/06/16/maersk-mobile-all-the-way-with-flutter) | Maersk Mobile: All the Way with Flutter | 2022/06/16
+[Soren Vedel](https://github.com/maersk) | [Article](https://www.maersk.com/news/articles/2022/04/07/giving-smart-products-the-right-idea) | Giving Smart Products The Right Idea | 2022/04/07
+[Steve Workman](https://github.com/steveworkman) | [Article](https://www.maersk.com/news/articles/2022/01/10/full-speed-ahead-for-maersk-booking) | Full Speed Ahead for Maersk Booking | 2022/01/25
 
 ## Presentations
 
